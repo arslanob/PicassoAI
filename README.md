@@ -28,11 +28,11 @@ PS: Enter your runpod API key to backend app.js file.
 - https://docs.runpod.io/reference/stable-diffusion-v1
 
 ## Screenshots!
-![Screenshot 2023-11-05 at 6 48 14 PM](https://github.com/arslanob/runpod/assets/86649154/9869d0b0-3a8e-4fb9-8108-5306be236276)
+![Screenshot 2023-11-05 at 7 58 56 PM](https://github.com/arslanob/PicassoAI/assets/86649154/6788c30b-6671-4ea4-ab74-c926cbb81f43)
 
-![Screenshot 2023-11-05 at 6 48 28 PM](https://github.com/arslanob/runpod/assets/86649154/873728ca-8b4c-48b5-a4c1-d5ab9e79be4f)
+![Screenshot 2023-11-05 at 8 03 48 PM](https://github.com/arslanob/PicassoAI/assets/86649154/495bc289-16f4-4f8d-8e44-ca1adc37a5ae)
 
-![Screenshot 2023-11-05 at 6 48 35 PM](https://github.com/arslanob/runpod/assets/86649154/5cce05a1-0876-41ea-8702-eacdc1482ba4)
+![Screenshot 2023-11-05 at 8 04 08 PM](https://github.com/arslanob/PicassoAI/assets/86649154/64753bdb-24c4-4221-a3c0-00085b9ac98a)
 
 ---
 
